@@ -76,149 +76,149 @@
   "nbHeureTravaileMensuel":[
     {
       "id":1,
-      "heure": 10
+      "heure": 156
     },
     {
       "id":2,
-      "heure": 19
+      "heure": 100
     },
     {
       "id":3,
-      "heure": 40
+      "heure": 132
     },
     {
       "id":4,
-      "heure": 40
+      "heure": 121
     },
     {
       "id":5,
-      "heure": 40
+      "heure": 110
     },
     {
       "id":6,
-      "heure": 40
+      "heure": 70
     },
     {
       "id":7,
-      "heure": 40
+      "heure": 91
     },
     {
       "id":8,
-      "heure": 40
+      "heure": 142
     },
     {
       "id":9,
-      "heure": 40
+      "heure": 60
     },
     {
       "id":10,
-      "heure": 40
+      "heure": 148
     },
     {
       "id":11,
-      "heure": 40
+      "heure": 73
     },
     {
       "id":12,
-      "heure": 40
+      "heure": 85
     },
     {
       "id":13,
-      "heure": 40
+      "heure": 68
     },
     {
       "id":14,
-      "heure": 40
+      "heure": 112
     },
     {
       "id":15,
-      "heure": 40
+      "heure": 123
     },
     {
       "id":16,
-      "heure": 40
+      "heure": 129
     },
     {
       "id":17,
-      "heure": 40
+      "heure": 58
     },
     {
       "id":18,
-      "heure": 40
+      "heure": 98
     }
   ],
   "nbHeureTravaileAnnuel ":[
     {
       "id":1,
-      "heure": 40
+      "heure": 399
     },
     {
       "id":2,
-      "heure": 40
+      "heure": 420
     },
     {
       "id":3,
-      "heure": 40
+      "heure": 312
     },
     {
       "id":4,
-      "heure": 40
+      "heure": 246
     },
     {
       "id":5,
-      "heure": 40
+      "heure": 381
     },
     {
       "id":6,
-      "heure": 40
+      "heure": 401
     },
     {
       "id":7,
-      "heure": 40
+      "heure": 300
     },
     {
       "id":8,
-      "heure": 40
+      "heure": 211
     },
     {
       "id":9,
-      "heure": 40
+      "heure": 265
     },
     {
       "id":10,
-      "heure": 40
+      "heure": 298
     },
     {
       "id":11,
-      "heure": 40
+      "heure": 274
     },
     {
       "id":12,
-      "heure": 40
+      "heure": 254
     },
     {
       "id":13,
-      "heure": 40
+      "heure": 266
     },
     {
       "id":14,
-      "heure": 40
+      "heure": 183
     },
     {
       "id":15,
-      "heure": 40
+      "heure": 189
     },
     {
       "id":16,
-      "heure": 40
+      "heure": 172
     },
     {
       "id":17,
-      "heure": 40
+      "heure": 360
     },
     {
       "id":18,
-      "heure": 40
+      "heure": 199
     }
   ]
 
